@@ -2,7 +2,7 @@
 
 ###
 
-### Hi! I'm Michael!
+<img src="https://github.com/user-attachments/assets/c9bae228-1527-4f32-a0e4-1e2674905624" />
 
 ###
 
