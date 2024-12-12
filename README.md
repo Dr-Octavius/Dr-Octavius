@@ -1,8 +1,4 @@
-<img src="https://github.com/user-attachments/assets/dec976a8-4cf8-4210-b63a-91bffa705602" />
-
-###
-
-<img height="90.63" src="https://github.com/user-attachments/assets/e90a27ee-62a7-4d9f-b2dd-f980e9d09877" />
+<img src="https://github.com/user-attachments/assets/dec976a8-4cf8-4210-b63a-91bffa705602" /><img height="90.63" src="https://github.com/user-attachments/assets/e90a27ee-62a7-4d9f-b2dd-f980e9d09877" />
 
 ###
 
