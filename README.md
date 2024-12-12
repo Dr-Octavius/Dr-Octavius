@@ -1,11 +1,11 @@
-<img src="https://github.com/user-attachments/assets/dec976a8-4cf8-4210-b63a-91bffa705602" />
-
 <div align="center">
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dr-Octavius.Dr-Octavius&left_color=mediumorchid&right_color=green"  />
 </div>
 
 <br clear="both">
 <br clear="both">
+
+<img src="https://github.com/user-attachments/assets/dec976a8-4cf8-4210-b63a-91bffa705602" />
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Dr-Octavius&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
