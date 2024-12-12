@@ -1,6 +1,9 @@
 <br clear="both">
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
+<div style="width:320px; height:180px; overflow:hidden;">
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" 
+       style="width:100%; height:100%; object-fit:cover;" />
+</div>
 
 ###
 
