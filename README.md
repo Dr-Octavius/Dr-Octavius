@@ -40,7 +40,7 @@
 
 ###
 
-![]("https://giphy.com/embed/du3J3cXyzhj75IOgvA)
+<img align="center" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 
 ###
 
