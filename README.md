@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/c9bae228-1527-4f32-a0e4-1e2674905624" />
+  <img height="30" src="https://github.com/user-attachments/assets/c9bae228-1527-4f32-a0e4-1e2674905624" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
