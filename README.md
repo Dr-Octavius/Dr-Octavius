@@ -1,6 +1,12 @@
+<img src="https://github.com/user-attachments/assets/dec976a8-4cf8-4210-b63a-91bffa705602" />
+
+###
+
 <br clear="both">
 
-<img src="https://github.com/user-attachments/assets/dec976a8-4cf8-4210-b63a-91bffa705602" />
+###
+
+### Hi! I'm Michael!
 
 ###
 
