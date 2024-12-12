@@ -40,11 +40,8 @@
 
 ###
 
-<br clear="both">
+![]("https://giphy.com/embed/du3J3cXyzhj75IOgvA)
 
-<div align="right">
-  <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" height="150" alt="via GIPHY" />
-</div>
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dr-Octavius.Dr-Octavius&left_color=mediumorchid&right_color=green"  />
