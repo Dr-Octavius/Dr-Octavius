@@ -63,8 +63,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Dr-Octavius/Dr-Octavius/output/snake.svg" alt="Snake animation" />
 
 ###
